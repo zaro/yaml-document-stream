@@ -1,0 +1,9 @@
+# text before first record should be ignored
+---
+id: 1
+name: '1'
+---
+# empty documents should be ignored
+--- #this should be ignored also
+id: 2
+name: '2'
